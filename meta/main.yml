@@ -1,0 +1,23 @@
+galaxy_info:
+  role_name: yarn
+  author: angristan
+  description: Ansible role for Yarn
+  license: MIT
+  min_ansible_version: 2.4
+
+  platforms:
+  - name: Debian
+    versions:
+    - all
+  - name: Ubuntu
+    versions:
+    - all
+
+  galaxy_tags:
+    - yarn
+    - nodejs
+    - node
+    - debian
+    - ubuntu
+
+dependencies: []
